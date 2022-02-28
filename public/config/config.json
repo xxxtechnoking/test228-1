@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0xa4066A6006dD3B75cf8712fEFa4Ff6EC7d34DD05",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa4066A6006dD3B75cf8712fEFa4Ff6EC7d34DD05",
+    "NETWORK": {
+        "NAME": "etherum",
+        "SYMBOL": "ETH",
+        "ID": 4
+    },
+    "NFT_NAME": "geekfancyclub",
+    "SYMBOL": "gfc",
+    "MAX_SUPPLY": 6000,
+    "WEI_COST": 75000000000000000,
+    "DISPLAY_COST": 0.01,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Ready to mint",
+    "MARKETPLACE_LINK": "",
+    "SHOW_BACKGROUND": false
+}

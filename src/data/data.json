@@ -1,0 +1,194 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "GeekFancyClub(GFC) is a series of generated full-body image matches, which produced by a group of animation designers from China. With a total of 6,000 graphics and over 100 features, it is a geeky shape with a sleek and techy look.As an emerging hip-hop IP founded in 2021, GFC has already cooperated with several offline trendy brands, and will enter the web3 world and join the metaverse in the future.",
+    "Why": [
+      "Mint price: TBA ETH",
+      "Total NFTs: 6000",
+      "NFTs Reserve: TBA",
+      "Attributes: 300+"
+    ],
+    "Why2": [
+      "Whitelist sale date: TBA",
+      "Public sale date: TBA",
+      "NFT Standard: ERC-721",
+      "Asset hosting: IPFS"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "parnership": [
+    {
+      "img": "img/projpic/element.webp"
+    },
+    {
+      "img": "img/projpic/nftsogan.webp"
+    },
+    {
+      "img": "img/projpic/opensea.png"
+    }
+  ],
+
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Technoking",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Jok lu",
+      "job": "Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Will.He",
+      "job": "Artist"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Mike",
+      "job": "Community"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    { "img2": "img/nftimages/1.png" },
+    { "img2": "img/nftimages/11.png" },
+    { "img2": "img/nftimages/12.png" },
+    { "img2": "img/nftimages/10.png" },
+    { "img2": "img/nftimages/13.png" },
+    { "img2": "img/nftimages/14.png" },
+    { "img2": "img/nftimages/15.png" },
+    { "img2": "img/nftimages/16.png" },
+    { "img2": "img/nftimages/17.png" },
+    { "img2": "img/nftimages/18.png" },
+    { "img2": "img/nftimages/19.png" },
+    { "img2": "img/nftimages/2.png" },
+    { "img2": "img/nftimages/20.png" },
+    { "img2": "img/nftimages/21.png" },
+    { "img2": "img/nftimages/22.png" },
+    { "img2": "img/nftimages/23.png" },
+    { "img2": "img/nftimages/24.png" },
+    { "img2": "img/nftimages/25.png" },
+    { "img2": "img/nftimages/26.png" },
+    { "img2": "img/nftimages/27.png" },
+    { "img": "img/nftimages/28.png" },
+    { "img": "img/nftimages/29.png" },
+    { "img": "img/nftimages/3.png" },
+    { "img": "img/nftimages/30.png" },
+    { "img": "img/nftimages/31.png" },
+    { "img": "img/nftimages/32.png" },
+    { "img": "img/nftimages/33.png" },
+    { "img": "img/nftimages/34.png" },
+    { "img": "img/nftimages/35.png" },
+    { "img": "img/nftimages/36.png" },
+    { "img": "img/nftimages/37.png" },
+    { "img": "img/nftimages/38.png" },
+    { "img": "img/nftimages/39.png" },
+    { "img": "img/nftimages/4.png" },
+    { "img": "img/nftimages/40.png" },
+    { "img": "img/nftimages/41.png" },
+    { "img": "img/nftimages/42.png" },
+    { "img": "img/nftimages/43.png" },
+    { "img": "img/nftimages/44.png" },
+    { "img": "img/nftimages/45.png" },
+    { "img": "img/nftimages/46.png" },
+    { "img": "img/nftimages/47.png" },
+    { "img": "img/nftimages/48.png" },
+    { "img": "img/nftimages/49.png" },
+    { "img": "img/nftimages/5.png" },
+    { "img": "img/nftimages/50.png" },
+    { "img": "img/nftimages/6.png" },
+    { "img": "img/nftimages/7.png" },
+    { "img": "img/nftimages/8.png" },
+    { "img": "img/nftimages/9.png" }
+  ]
+}
